@@ -1,4 +1,4 @@
 [![OpenSSF Scorecard](htt‌ps://api.securityscorecards.dev/projects/github.com/ymendiola17/cybersecurity-Phishing/badge)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/ymendiola17/cybersecurity-Phishing/)
 
-#Phishing Cyber_Security
+# Phishing Cyber_Security
 This repo is for an inclass activity to learn phishing
