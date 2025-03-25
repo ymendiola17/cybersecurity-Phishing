@@ -2,5 +2,6 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/10276/badge)](https://www.bestpractices.dev/projects/10276)
 
+
 # Phishing Cyber_Security
 This repo is for an inclass activity to learn phishing
